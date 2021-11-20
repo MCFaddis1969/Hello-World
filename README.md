@@ -1,5 +1,5 @@
 # Hello-World
-My first Repository
+This is my first Repository.
 I am a 52 year old husband and father of 2 beautiful boys.
 I am very adept in the fields of music and construction.
 I am currently learning html | css | javascript | GitHub | Javascript 30
